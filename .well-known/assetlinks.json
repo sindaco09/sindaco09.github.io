@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.indaco.samples",
+      "sha256_cert_fingerprints": ["BF:33:73:B2:52:8E:6B:0F:D2:EA:62:21:7A:8F:50:D3:99:8A:B5:DE:B0:0B:90:C6:98:AE:86:72:90:18:CD:AE"]
+    }
+  }
+]
