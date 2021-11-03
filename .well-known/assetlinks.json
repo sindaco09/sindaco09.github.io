@@ -4,7 +4,10 @@
     "target": {
       "namespace": "android_app",
       "package_name": "com.indaco.featuremodulesapp",
-      "sha256_cert_fingerprints": ["BF:33:73:B2:52:8E:6B:0F:D2:EA:62:21:7A:8F:50:D3:99:8A:B5:DE:B0:0B:90:C6:98:AE:86:72:90:18:CD:AE"]
+      "sha256_cert_fingerprints": [
+        "BF:33:73:B2:52:8E:6B:0F:D2:EA:62:21:7A:8F:50:D3:99:8A:B5:DE:B0:0B:90:C6:98:AE:86:72:90:18:CD:AE",
+        "13:BD:04:FD:EF:29:C2:2B:BB:36:B2:80:D3:CD:39:52:51:D0:5D:0E:DA:3B:82:16:2D:B7:85:5C:0F:39:BE:31"
+      ]
     }
   }
 ]
